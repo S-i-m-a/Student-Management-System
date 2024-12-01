@@ -1,5 +1,4 @@
 # Student Management System
-
 A simple and efficient Student Management System developed to manage student records, course enrollment, and results. This system provides functionalities to add, update, and manage student information, making it easier for administrators and educators to handle student data.
 
 ## Features
